@@ -11508,9 +11508,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*, @types/node@npm:>=10.0.0, @types/node@npm:>=8.1.0":
-  version: 18.0.3
-  resolution: "@types/node@npm:18.0.3"
-  checksum: 03543d489b0747c1414aa5e3e8ca928d6ca3dfdb17d96811cc9f355da632805ca27520ed8ebfc14fb6a1b317490045fcd2d0dd3362f9b98b7f3d0ca7297ec086
+  version: 20.8.0
+  resolution: "@types/node@npm:20.8.0"
+  checksum: 9ee3b9116bdb85bf519fe373f0faafdec048b6e3e34b1d97c20a3331f3d3ae0a87b08696805758447694869620d6359c81c18fdee30751a8fb4231bffa8f5482
   languageName: node
   linkType: hard
 
@@ -11543,23 +11543,16 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.43
-  resolution: "@types/node@npm:16.11.43"
-  checksum: 64ee1d888d17580726029659c49963982f302cd3f9621d47131cdeb7ad0e307a1e1fe1c5dafd20fb2f4060013125359eab9dac2d781895d725874dc6a1aa48ea
+  version: 16.18.55
+  resolution: "@types/node@npm:16.18.55"
+  checksum: ba428f558a2097abd5f89726c34f83a67ec1acd29300cc3297f6ab01ff12c48847b12db8ac668d9c0e493155ec64bcf2c87e34135f325561f07654ad2c55463e
   languageName: node
   linkType: hard
 
-"@types/node@npm:^14.11.8":
-  version: 14.18.37
-  resolution: "@types/node@npm:14.18.37"
-  checksum: cb2bcd7177fe0fa0e6db899e06d86955b85c7629359842278fa47a58ff2c3b96c9a88fa40493c23b12b5febb5195f783d028d63d44da64401a55956a8555aaeb
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:^14.18.36":
-  version: 14.18.36
-  resolution: "@types/node@npm:14.18.36"
-  checksum: 9742b62fee705cbb177b681e849640834ea3651ea90c7bfea07462dc7511eb73116a12b32c01157b591ebaaed9ece8042016f2a78b50396883f1358a18903fe2
+"@types/node@npm:^14.11.8, @types/node@npm:^14.18.36":
+  version: 14.18.63
+  resolution: "@types/node@npm:14.18.63"
+  checksum: 626a371419a6a0e11ca460b22bb4894abe5d75c303739588bc96267e380aa8b90ba5a87bc552400584f0ac2a84b5c458dadcbcf0dfd2396ebeb765f7a7f95893
   languageName: node
   linkType: hard
 
