@@ -19366,13 +19366,13 @@ __metadata:
   linkType: hard
 
 "eslint-plugin-markdown@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "eslint-plugin-markdown@npm:3.0.0"
+  version: 3.0.1
+  resolution: "eslint-plugin-markdown@npm:3.0.1"
   dependencies:
     mdast-util-from-markdown: ^0.8.5
   peerDependencies:
     eslint: ^6.0.0 || ^7.0.0 || ^8.0.0
-  checksum: 3424fd97b6990cbed7be3764ae8bec7eae9bd1cc03cd76d8d1cf38e088a9777ed4491921e7e1a8d3a146361bcd935e5ed1b2bfd4fd623bcdafdb824bccfdd2b2
+  checksum: ba27a0f2115b85294591f3cf4e64c66b60cd508915cc3394869dda38c9e1f5ef230158f180cc21b5431085d4e4daac9f3f173078c00b54e659272318d0e6600d
   languageName: node
   linkType: hard
 
