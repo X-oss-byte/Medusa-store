@@ -35617,7 +35617,7 @@ __metadata:
     turbo: ^1.6.3
     typedoc: 0.23.10
     typedoc-frontmatter-plugin: "link:docs-util/typedoc-plugins/typedoc-frontmatter-plugin"
-    typedoc-monorepo-link-types: ^0.0.2
+    typedoc-monorepo-link-types: ^0.0.4
     typedoc-plugin-markdown: ^3.13.4
     typedoc-plugin-merge-modules: ^4.0.1
     typedoc-plugin-reference-excluder: ^1.0.0
@@ -39126,12 +39126,12 @@ __metadata:
   languageName: node
   linkType: soft
 
-"typedoc-monorepo-link-types@npm:^0.0.2":
-  version: 0.0.2
-  resolution: "typedoc-monorepo-link-types@npm:0.0.2"
+"typedoc-monorepo-link-types@npm:^0.0.4":
+  version: 0.0.4
+  resolution: "typedoc-monorepo-link-types@npm:0.0.4"
   peerDependencies:
-    typedoc: 0.22.x
-  checksum: f282e6c0b1becdc36fd3cce5f4a79573b31098ec64c4e92bc17cc9001920e4e196b2973fa666f027643da5d34cbf3344c768a0ffd8f1907e04416b20c0af6ce6
+    typedoc: 0.23.x
+  checksum: d29119ec1bddccc70c0f8f060832a0bea3dc014445ed41c470f74eb199cc07768a9e1a40c22103c33527c93c6b582af3eec0ca1635221fead4c8ed0a81e4bbfb
   languageName: node
   linkType: hard
 
