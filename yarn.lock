@@ -5621,7 +5621,7 @@ __metadata:
     medusa-react: 5.0.0
     moment: ^2.29.4
     pluralize: ^8.0.0
-    postcss: ^8.4.21
+    postcss: ^8.4.31
     query-string: ^8.1.0
     react: ^18.2.0
     react-collapsible: ^2.8.3
@@ -32923,7 +32923,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.27":
+"postcss@npm:^8.4.27, postcss@npm:^8.4.31":
   version: 8.4.31
   resolution: "postcss@npm:8.4.31"
   dependencies:
