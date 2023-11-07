@@ -5607,7 +5607,7 @@ __metadata:
     "@testing-library/jest-dom": ^5.16.5
     "@testing-library/react": ^14.0.0
     "@testing-library/user-event": ^14.4.3
-    "@types/pluralize": ^0.0.29
+    "@types/pluralize": ^0.0.33
     "@types/react": ^18.0.27
     "@types/react-datepicker": ^4.10.0
     "@types/react-dom": ^18.0.10
@@ -11367,10 +11367,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/pluralize@npm:^0.0.29":
-  version: 0.0.29
-  resolution: "@types/pluralize@npm:0.0.29"
-  checksum: 840796fa1db158eb4d9787758d134736e29d9a8035f5b0cbad06e3801fc64b79112ba944c83f9a1a5b94da08703f505b8315b7e0f28bfc0f8e9e1ccfead7b083
+"@types/pluralize@npm:^0.0.33":
+  version: 0.0.33
+  resolution: "@types/pluralize@npm:0.0.33"
+  checksum: 24899caf85b79dd291a6b6e9b9f3b67b452b18d578d0ac0d531a705bf5ee0361d9386ea1f8532c64de9e22c6e9606c5497787bb5e31bd299c487980436c59785
   languageName: node
   linkType: hard
 
