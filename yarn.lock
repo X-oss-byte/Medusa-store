@@ -11474,11 +11474,11 @@ __metadata:
   linkType: hard
 
 "@types/react-table@npm:^7.7.9":
-  version: 7.7.14
-  resolution: "@types/react-table@npm:7.7.14"
+  version: 7.7.20
+  resolution: "@types/react-table@npm:7.7.20"
   dependencies:
     "@types/react": "*"
-  checksum: 638acd1db693d00f93d77eb044a5d28aa10e0bb24f01e1929fff2b9be6096ccac66c81cf7d656829adc2354ce1183d6f70da9f4be6316fc8ff52f2dc29789bba
+  checksum: 293cffe798bbb3c483af1f704e289681517da376edfa113a71f248cb626115999ce736972f38d85eb14dbc6e126cca89db678fb0cea9fb2acfb2f343130f02a0
   languageName: node
   linkType: hard
 
