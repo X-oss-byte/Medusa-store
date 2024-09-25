@@ -5975,7 +5975,7 @@ __metadata:
     handlebars: ^4.7.7
     jest: ^25.5.4
     json-schema-ref-parser: ^9.0.9
-    node-fetch: 2.6.7
+    node-fetch: 2.6.8
     pascalcase: ^2.0.0
     qs: 6.10.3
     rollup: 3.9.1
@@ -30399,7 +30399,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.7, node-fetch@npm:^2.5.0, node-fetch@npm:^2.6.1, node-fetch@npm:^2.6.6, node-fetch@npm:^2.6.7":
+"node-fetch@npm:2.6.7":
   version: 2.6.7
   resolution: "node-fetch@npm:2.6.7"
   dependencies:
@@ -30413,6 +30413,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"node-fetch@npm:2.6.8":
+  version: 2.6.8
+  resolution: "node-fetch@npm:2.6.8"
+  dependencies:
+    whatwg-url: ^5.0.0
+  peerDependencies:
+    encoding: ^0.1.0
+  peerDependenciesMeta:
+    encoding:
+      optional: true
+  checksum: 4e3cfdeb3e5e0e6d1192be08942d6530d74b0ac4fe6d8fc1cbcc3e7f274807b4f662ff1218393ba9e5e0e0c15c66365128726ed5400585feda707c31234d1f16
+  languageName: node
+  linkType: hard
+
 "node-fetch@npm:^1.0.1":
   version: 1.7.3
   resolution: "node-fetch@npm:1.7.3"
@@ -30423,9 +30437,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:^2.6.9":
-  version: 2.6.9
-  resolution: "node-fetch@npm:2.6.9"
+"node-fetch@npm:^2.5.0, node-fetch@npm:^2.6.1, node-fetch@npm:^2.6.6, node-fetch@npm:^2.6.7, node-fetch@npm:^2.6.9":
+  version: 2.7.0
+  resolution: "node-fetch@npm:2.7.0"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -30433,7 +30447,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: 7a4a0e027e509b741bec4172749103f158da23187ff251cb988dd54ea7267519c3fa11838971da0f5f3c54e79da3174e7bd72aa2179c9f69887511ece16c9c0f
+  checksum: b55786b6028208e6fbe594ccccc213cab67a72899c9234eb59dba51062a299ea853210fcf526998eaa2867b0963ad72338824450905679ff0fa304b8c5093ae8
   languageName: node
   linkType: hard
 
