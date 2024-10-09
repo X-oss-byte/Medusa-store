@@ -5299,6 +5299,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@jridgewell/gen-mapping@npm:^0.3.5":
+  version: 0.3.5
+  resolution: "@jridgewell/gen-mapping@npm:0.3.5"
+  dependencies:
+    "@jridgewell/set-array": ^1.2.1
+    "@jridgewell/sourcemap-codec": ^1.4.10
+    "@jridgewell/trace-mapping": ^0.3.24
+  checksum: 1be4fd4a6b0f41337c4f5fdf4afc3bd19e39c3691924817108b82ffcb9c9e609c273f936932b9fba4b3a298ce2eb06d9bff4eb1cc3bd81c4f4ee1b4917e25feb
+  languageName: node
+  linkType: hard
+
 "@jridgewell/resolve-uri@npm:3.1.0, @jridgewell/resolve-uri@npm:^3.0.3":
   version: 3.1.0
   resolution: "@jridgewell/resolve-uri@npm:3.1.0"
@@ -5306,10 +5317,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@jridgewell/resolve-uri@npm:^3.1.0":
+  version: 3.1.2
+  resolution: "@jridgewell/resolve-uri@npm:3.1.2"
+  checksum: d502e6fb516b35032331406d4e962c21fe77cdf1cbdb49c6142bcbd9e30507094b18972778a6e27cbad756209cfe34b1a27729e6fa08a2eb92b33943f680cf1e
+  languageName: node
+  linkType: hard
+
 "@jridgewell/set-array@npm:^1.0.0, @jridgewell/set-array@npm:^1.0.1":
   version: 1.1.2
   resolution: "@jridgewell/set-array@npm:1.1.2"
   checksum: bc7ab4c4c00470de4e7562ecac3c0c84f53e7ee8a711e546d67c47da7febe7c45cd67d4d84ee3c9b2c05ae8e872656cdded8a707a283d30bd54fbc65aef821ab
+  languageName: node
+  linkType: hard
+
+"@jridgewell/set-array@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "@jridgewell/set-array@npm:1.2.1"
+  checksum: 2a5aa7b4b5c3464c895c802d8ae3f3d2b92fcbe84ad12f8d0bfbb1f5ad006717e7577ee1fd2eac00c088abe486c7adb27976f45d2941ff6b0b92b2c3302c60f4
   languageName: node
   linkType: hard
 
@@ -5323,10 +5348,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@jridgewell/source-map@npm:^0.3.3":
+  version: 0.3.6
+  resolution: "@jridgewell/source-map@npm:0.3.6"
+  dependencies:
+    "@jridgewell/gen-mapping": ^0.3.5
+    "@jridgewell/trace-mapping": ^0.3.25
+  checksum: 6a4ecc713ed246ff8e5bdcc1ef7c49aaa93f7463d948ba5054dda18b02dcc6a055e2828c577bcceee058f302ce1fc95595713d44f5c45e43d459f88d267f2f04
+  languageName: node
+  linkType: hard
+
 "@jridgewell/sourcemap-codec@npm:1.4.14, @jridgewell/sourcemap-codec@npm:^1.4.10, @jridgewell/sourcemap-codec@npm:^1.4.13":
   version: 1.4.14
   resolution: "@jridgewell/sourcemap-codec@npm:1.4.14"
   checksum: 3fbaff1387c1338b097eeb6ff92890d7838f7de0dde259e4983763b44540bfd5ca6a1f7644dc8ad003a57f7e80670d5b96a8402f1386ba9aee074743ae9bad51
+  languageName: node
+  linkType: hard
+
+"@jridgewell/sourcemap-codec@npm:^1.4.14":
+  version: 1.5.0
+  resolution: "@jridgewell/sourcemap-codec@npm:1.5.0"
+  checksum: 2eb864f276eb1096c3c11da3e9bb518f6d9fc0023c78344cdc037abadc725172c70314bdb360f2d4b7bffec7f5d657ce006816bc5d4ecb35e61b66132db00c18
   languageName: node
   linkType: hard
 
@@ -5357,6 +5399,16 @@ __metadata:
     "@jridgewell/resolve-uri": 3.1.0
     "@jridgewell/sourcemap-codec": 1.4.14
   checksum: 40b65fcbdd7cc5a60dbe0a2780b6670ebbc1a31c96e43833e0bf2fee0773b1ba5137ab7d137b28fc3f215567bd5f9d06b7b30634ba15636c13bd8a863c20ae9a
+  languageName: node
+  linkType: hard
+
+"@jridgewell/trace-mapping@npm:^0.3.24, @jridgewell/trace-mapping@npm:^0.3.25":
+  version: 0.3.25
+  resolution: "@jridgewell/trace-mapping@npm:0.3.25"
+  dependencies:
+    "@jridgewell/resolve-uri": ^3.1.0
+    "@jridgewell/sourcemap-codec": ^1.4.14
+  checksum: 3d1ce6ebc69df9682a5a8896b414c6537e428a1d68b02fcc8363b04284a8ca0df04d0ee3013132252ab14f2527bc13bea6526a912ecb5658f0e39fd2860b4df4
   languageName: node
   linkType: hard
 
@@ -5959,6 +6011,7 @@ __metadata:
     "@babel/preset-typescript": 7.18.6
     "@rollup/plugin-commonjs": 24.0.0
     "@rollup/plugin-node-resolve": 15.0.1
+    "@rollup/plugin-terser": 0.1.0
     "@rollup/plugin-typescript": 9.0.2
     "@types/fs-extra": ^9.0.12
     "@types/jest": 27.5.0
@@ -5979,7 +6032,6 @@ __metadata:
     pascalcase: ^2.0.0
     qs: 6.10.3
     rollup: 3.9.1
-    rollup-plugin-terser: 7.0.2
     ts-jest: ^25.5.1
     tslib: 2.3.1
     typescript: 4.9.5
@@ -7775,6 +7827,20 @@ __metadata:
   peerDependencies:
     rollup: ^1.20.0||^2.0.0
   checksum: a8226b01352ee1f7133b1b59b3906267e11c99020a55e3b7a313e03889f790d1cd94e7f7769d3963261e897c3265082533ba595976f8e3f08cf70aa88bf1ddd7
+  languageName: node
+  linkType: hard
+
+"@rollup/plugin-terser@npm:0.1.0":
+  version: 0.1.0
+  resolution: "@rollup/plugin-terser@npm:0.1.0"
+  dependencies:
+    terser: ^5.15.1
+  peerDependencies:
+    rollup: ^2.x || ^3.x
+  peerDependenciesMeta:
+    rollup:
+      optional: true
+  checksum: 4849fef63e8328f103d582e0ea8da3c982f19d8417223665730c9b852ea4735a4b07358535ef6a555a09aaccdaee1742b92fd6b7b52aa2bebe7421eb8c0787a5
   languageName: node
   linkType: hard
 
@@ -35457,7 +35523,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-terser@npm:7.0.2, rollup-plugin-terser@npm:^7.0.2":
+"rollup-plugin-terser@npm:^7.0.2":
   version: 7.0.2
   resolution: "rollup-plugin-terser@npm:7.0.2"
   dependencies:
@@ -38085,6 +38151,20 @@ __metadata:
   bin:
     terser: bin/terser
   checksum: 645ec469e3586fe6f0c55b6a4e4c98dab6e390fcf4e7b9a41d8cd47724da7dbbfc3abbe48c8ffee3ae5a8532fa2091fe62081250676ac8dd38e15044186845ea
+  languageName: node
+  linkType: hard
+
+"terser@npm:^5.15.1":
+  version: 5.34.1
+  resolution: "terser@npm:5.34.1"
+  dependencies:
+    "@jridgewell/source-map": ^0.3.3
+    acorn: ^8.8.2
+    commander: ^2.20.0
+    source-map-support: ~0.5.20
+  bin:
+    terser: bin/terser
+  checksum: 51c7d704c5c4ae88bf937124112c9972aed4e1fd29d805cc2d86e0f54cd631ecd4e69db5bb3c1e3b450c741c86e2313328bea0fde925329e8a31a07a7941723c
   languageName: node
   linkType: hard
 
