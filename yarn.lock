@@ -5978,7 +5978,7 @@ __metadata:
     node-fetch: 2.6.7
     pascalcase: ^2.0.0
     qs: 6.10.3
-    rollup: 3.9.1
+    rollup: 3.29.5
     rollup-plugin-terser: 7.0.2
     ts-jest: ^25.5.1
     tslib: 2.3.1
@@ -35496,9 +35496,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:3.9.1":
-  version: 3.9.1
-  resolution: "rollup@npm:3.9.1"
+"rollup@npm:3.29.5":
+  version: 3.29.5
+  resolution: "rollup@npm:3.29.5"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -35506,7 +35506,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 48875f9414b17dda1f3a8eea3a2cfffbe847451f986e0c4f6363f06cde05d508730f29486d3f25f27db28dc76bb411a23959b826b1054d3848bab0d84a471fdd
+  checksum: a1fa26f21f0d6cf93b6d05ea284ad5854905b585f28a14c27d439b0f9b859cba13ea25f376303d86770e59b4686bedc52b4706e57442514f0414c6fd3c5b8e71
   languageName: node
   linkType: hard
 
