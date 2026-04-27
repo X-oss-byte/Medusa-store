@@ -13817,7 +13817,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.19.0, axios@npm:^0.19.2":
+"axios@npm:^0.19.0":
   version: 0.19.2
   resolution: "axios@npm:0.19.2"
   dependencies:
@@ -13826,16 +13826,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.20.0":
-  version: 0.20.0
-  resolution: "axios@npm:0.20.0"
-  dependencies:
-    follow-redirects: ^1.10.0
-  checksum: 36dffb87c584d75bc5b009165c78031aab113f874b81c510deab369a63a2a27bd241395751a801c79d2ed2dcee55a4d8a557f0c1b9fd7de6c38bdd1ad7f56783
-  languageName: node
-  linkType: hard
-
-"axios@npm:^0.21.1, axios@npm:^0.21.4":
+"axios@npm:^0.21.0, axios@npm:^0.21.1, axios@npm:^0.21.4":
   version: 0.21.4
   resolution: "axios@npm:0.21.4"
   dependencies:
@@ -20855,7 +20846,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"follow-redirects@npm:^1.10.0, follow-redirects@npm:^1.14.0, follow-redirects@npm:^1.14.4, follow-redirects@npm:^1.14.8":
+"follow-redirects@npm:^1.14.0, follow-redirects@npm:^1.14.4, follow-redirects@npm:^1.14.8":
   version: 1.15.1
   resolution: "follow-redirects@npm:1.15.1"
   peerDependenciesMeta:
@@ -28606,7 +28597,7 @@ __metadata:
     "@babel/preset-env": ^7.7.5
     "@babel/runtime": ^7.9.6
     "@medusajs/medusa": 1.8.0
-    axios: ^0.20.0
+    axios: ^0.21.0
     body-parser: ^1.19.0
     client-sessions: ^0.8.0
     cors: ^2.8.5
@@ -28656,7 +28647,7 @@ __metadata:
     "@babel/preset-env": ^7.7.5
     "@babel/register": ^7.7.4
     "@babel/runtime": ^7.9.6
-    axios: ^0.19.2
+    axios: ^0.21.0
     body-parser: ^1.19.0
     client-sessions: ^0.8.0
     cors: ^2.8.5
@@ -28790,7 +28781,7 @@ __metadata:
     "@babel/preset-env": ^7.7.5
     "@babel/register": ^7.7.4
     "@babel/runtime": ^7.9.6
-    axios: ^0.19.2
+    axios: ^0.21.0
     axios-mock-adapter: ^1.18.2
     axios-mock-server: ^0.19.1
     axios-rate-limit: ^1.2.1
@@ -28877,7 +28868,7 @@ __metadata:
     "@babel/preset-env": ^7.7.5
     "@babel/register": ^7.7.4
     "@babel/runtime": ^7.9.6
-    axios: ^0.19.2
+    axios: ^0.21.0
     body-parser: ^1.19.0
     client-sessions: ^0.8.0
     cross-env: ^5.2.1
@@ -28904,7 +28895,7 @@ __metadata:
     "@babel/plugin-transform-runtime": ^7.7.6
     "@babel/preset-env": ^7.7.5
     "@babel/runtime": ^7.7.6
-    axios: ^0.20.0
+    axios: ^0.21.0
     cross-env: ^5.2.1
     jest: ^25.5.4
     medusa-interfaces: ^1.3.7
@@ -28998,7 +28989,7 @@ __metadata:
     "@babel/register": ^7.7.4
     "@babel/runtime": ^7.9.6
     analytics-node: ^3.4.0-beta.1
-    axios: ^0.19.2
+    axios: ^0.21.0
     body-parser: ^1.19.0
     cross-env: ^5.2.1
     eslint: ^6.8.0
@@ -29054,7 +29045,7 @@ __metadata:
     "@babel/preset-env": ^7.7.5
     "@babel/register": ^7.7.4
     "@babel/runtime": ^7.9.6
-    axios: ^0.19.2
+    axios: ^0.21.0
     body-parser: ^1.19.0
     client-sessions: ^0.8.0
     cross-env: ^5.2.1
